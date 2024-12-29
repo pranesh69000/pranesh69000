@@ -1,27 +1,36 @@
 <h1 align="center">👋 Hi, I'm Pranesh R</h1>  
-<h3 align="center">Emerging Full Stack Developer | Passionate Problem Solver</h3>  
+<h3 align="center">Emerging Full Stack Developer | Mobile and Web Enthusiast</h3>  
 
-<p align="center">
-  <img src="https://github.com/PraneshR/PraneshR/assets/placeholder-header-image.jpg" alt="Header Image" style="border-radius:10px;" width="100%">
-</p>
+
 
 ---
 
 ### 🌟 About Me  
 
-Hi! I'm **Pranesh R**, an enthusiastic **Full Stack Developer** skilled in multiple programming languages and frameworks. I enjoy building intuitive, scalable, and efficient applications, whether it's mobile, desktop, or web-based solutions.  
+Hi! I'm **Pranesh R**, an **Emerging Full Stack Developer** with a passion for crafting modern and scalable solutions for web and mobile applications. With expertise in multiple programming languages and frameworks, I thrive on building projects that solve real-world problems.  
 
 💡 **Tech Stack I Work With:**  
-- **Languages:** C, C++, Java, Python, Dart  
-- **Frameworks & Tools:** Flutter, Git, MySQL, VS Code, Eclipse  
+- **Languages:** C, C++, Java, Python, Dart, Kotlin  
+- **Frameworks & Tools:** Flutter, Android Studio, Git, MySQL  
+- **Special Interests:** Mobile App Development, Cross-Platform Development, Backend Systems  
 
 ---
 
 ### 🚀 Skills  
 
-![Languages](https://img.shields.io/badge/Code-C%20%7C%20C++%20%7C%20Java%20%7C%20Python%20%7C%20Dart-007396?style=for-the-badge&logo=codeforces&logoColor=white)  
-![Framework](https://img.shields.io/badge/Framework-Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)  
-![Tools](https://img.shields.io/badge/Tools-Git%20%7C%20MySQL%20%7C%20VS%20Code%20%7C%20Eclipse-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)  
+#### Programming Languages  
+![C](https://img.shields.io/badge/-C-00599C?style=for-the-badge&logo=c&logoColor=white)  
+![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)  
+![Java](https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white)  
+![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
+![Dart](https://img.shields.io/badge/-Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)  
+![Kotlin](https://img.shields.io/badge/-Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)  
+
+#### Frameworks and Tools  
+![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)  
+![Android Studio](https://img.shields.io/badge/-Android%20Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)  
+![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)  
 
 ---
 
@@ -35,10 +44,9 @@ Hi! I'm **Pranesh R**, an enthusiastic **Full Stack Developer** skilled in multi
 
 ---
 
-### 📊 GitHub Stats  
+### 📊 Pranesh's GitHub Stats  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=PraneshR&show_icons=true&theme=radical" alt="My GitHub Stats" width="48%">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PraneshR&layout=compact&theme=radical" alt="Top Languages" width="48%">
 </p>  
 
@@ -55,8 +63,6 @@ Hi! I'm **Pranesh R**, an enthusiastic **Full Stack Developer** skilled in multi
 
 ### 🚀 Fun Fact  
 
-*"Code,Eat,Sleep,Repeat"*  
+*"The best way to predict the future is to invent it!"*  
 
-<p align="center">
-  <img src="https://github.com/PraneshR/PraneshR/assets/placeholder-footer-image.jpg" alt="Footer Image" style="border-radius:10px;" width="100%">
-</p>
+
