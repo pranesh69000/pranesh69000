@@ -38,7 +38,7 @@ Hi! I'm **Pranesh R**, an enthusiastic **Full Stack Developer** skilled in multi
 ### 📊 GitHub Stats  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=PraneshR&show_icons=true&theme=radical" alt="Pranesh's GitHub Stats" width="48%">
+  <img src="https://github-readme-stats.vercel.app/api?username=PraneshR&show_icons=true&theme=radical" alt="My GitHub Stats" width="48%">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PraneshR&layout=compact&theme=radical" alt="Top Languages" width="48%">
 </p>  
 
