@@ -56,7 +56,7 @@ Hi! I'm **Pranesh R**, an **Emerging Full Stack Developer** with a passion for c
 
 - **Portfolio:** Coming Soon!  
 - **Email:** [praneshchandranwork@gmail.com](mailto:praneshchandranwork@gmail.com)  
-- **LinkedIn:** [linkedin.com/in/pranesh-chandran](https://www.linkedin.com/in/pranesh-chandran-7b651028b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)  
+- **LinkedIn:** [linkedin.com/in/pranesh-chandran](https://www.linkedin.com/in/praneshchandran21/)  
 - **GitHub:** [github.com/pranesh69000](https://github.com/pranesh69000)  
 
 ---
