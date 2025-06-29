@@ -54,7 +54,7 @@ Hi! I'm **Pranesh R**, an **Emerging Full Stack Developer** with a passion for c
 
 ### 📫 How to Reach Me  
 
-- **Portfolio:** Coming Soon!  
+- **Portfolio:** [Pranesh R's Portfolio](https://portfolio-tau-smoky-yb4ctoncjx.vercel.app/)  
 - **Email:** [praneshchandranwork@gmail.com](mailto:praneshchandranwork@gmail.com)  
 - **LinkedIn:** [linkedin.com/in/pranesh-chandran](https://www.linkedin.com/in/praneshchandran21/)  
 - **GitHub:** [github.com/pranesh69000](https://github.com/pranesh69000)  
