@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hi, I'm Pranesh R</h1>  
-<h3 align="center">Emerging Full Stack Developer | Mobile and Web Enthusiast</h3>  
+<h3 align="center">Emerging Full Stack Developer | Web and mobile app enthusiast</h3>  
 
 
 
