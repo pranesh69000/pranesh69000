@@ -1,68 +1,114 @@
-<h1 align="center">👋 Hi, I'm Pranesh R</h1>  
-<h3 align="center">Emerging Full Stack Developer | Web and mobile app enthusiast</h3>  
+<h1 align="center">Hi, I'm Pranesh R 👋</h1>
 
-
-
----
-
-### 🌟 About Me  
-
-Hi! I'm **Pranesh R**, an **Emerging Full Stack Developer** with a passion for crafting modern and scalable solutions for web and mobile applications. With expertise in multiple programming languages and frameworks, I thrive on building projects that solve real-world problems.  
-
-💡 **Tech Stack I Work With:**  
-- **Languages:** C, C++, Java, Python, Dart, Kotlin  
-- **Frameworks & Tools:** Flutter, Android Studio, Git, MySQL  
-- **Special Interests:** Mobile App Development, Cross-Platform Development, Backend Systems  
-
----
-
-### 🚀 Skills  
-
-#### Programming Languages  
-![C](https://img.shields.io/badge/-C-00599C?style=for-the-badge&logo=c&logoColor=white)  
-![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)  
-![Java](https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white)  
-![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
-![Dart](https://img.shields.io/badge/-Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)  
-![Kotlin](https://img.shields.io/badge/-Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)  
-
-#### Frameworks and Tools  
-![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)  
-![Android Studio](https://img.shields.io/badge/-Android%20Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)  
-![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)  
-
----
-
-### 🛠 Projects  
-
-| **Project**                     | **Description**                                                                                                                                      | **Technologies**     |
-|----------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------|
-| **Flori-Agri Care Assistant**    | A Flutter-based app for real-time crop and flower disease detection using AI, improving agricultural productivity and food security.                  | Flutter, Python      |
-| **Tic-Tac-Toe Matchmaking**      | Capstone project featuring smart matchmaking using queues, priority queues, and hash tables for dynamic lobbies.                                      | C++, Data Structures |
-| **Simple Banking Application**   | Java-based project simulating a simple banking system with database integration for deposits, withdrawals, and account management.                    | Java, MySQL          |
-
----
-
-### 📊 Pranesh's GitHub Stats  
+<h3 align="center">
+MERN Stack Developer • Prompt Engineer • Full Stack Developer
+</h3>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PraneshR&layout=compact&theme=radical" alt="Top Languages" width="48%">
-</p>  
+I build AI-powered systems that turn messy human input into structured, useful intelligence.
+</p>
 
 ---
 
-### 📫 How to Reach Me  
+## 🧠 About Me
 
-- **Portfolio:** [Pranesh R's Portfolio](https://portfolio-tau-smoky-yb4ctoncjx.vercel.app/)  
-- **Email:** [praneshchandranwork@gmail.com](mailto:praneshchandranwork@gmail.com)  
-- **LinkedIn:** [linkedin.com/in/pranesh-chandran](https://www.linkedin.com/in/praneshchandran21/)  
-- **GitHub:** [github.com/pranesh69000](https://github.com/pranesh69000)  
+I’m **Pranesh R**, a **product-focused  AI Engineer** who enjoys building systems that actually get used.
+
+I’m especially interested in:
+- AI-powered productivity tools
+- End-to-end systems
+
+I don’t just integrate models 
+I care about **pipelines, trade-offs, privacy and real user workflows**.
 
 ---
 
-### 🚀 Fun Fact  
+## 🚀 What I’m Currently Focused On
 
-*"The best way to predict the future is to invent it!"*  
+- Building **AI-driven productivity & automation tools**
+- Designing **clean, explainable ML pipelines**
+- Strengthening backend & system-level thinking
+
+---
+
+## 🛠 Tech Stack
+
+### Languages
+- Java
+- Python
+- JavaScript
+- C 
+
+### Frontend
+- React
+- Vite
+- Html/Css
+
+### Backend and AI
+- Python
+- Flask
+- MongoDB
+- Node.js
+
+### Tools
+- Git and GitHub
+- MySQL
+- Google Colab
+
+---
+
+## 🧩 Featured Projects
+
+### 🎙️ Voice Enabled Sales Activity Logger
+**AI-powered CRM-style activity logging using voice**
+
+A browser-based system that allows sales reps to **log calls, meetings and follow-ups using natural speech**, while the backend handles transcription, classification and prioritization automatically.
+
+**Why it’s interesting:**
+- Voice-first workflow (zero manual CRM entry)
+- Local speech-to-text using Whisper
+- Automatic activity & priority detection
+- Modular Flask backend
+- Real-time dashboard updates
+
+**Tech:** React, Vite, Python, Flask, Whisper, MongoDB
+
+---
+
+### 🧠 Meeting Intelligence
+**Turn meetings into structured intelligence - automatically**
+
+A  meeting intelligence system that records **system audio + mic**, transcribes locally, extracts summaries and action items and syncs **the notes** to Google Drive.
+
+**Why it’s interesting:**
+- Local AI inference (no audio leaves the system)
+- Speaker-aware transcription
+- Clean summary and action-item extraction
+- Practical, explainable ML pipeline
+- Built without overengineering
+
+**Tech:** React, Vite, Python, Whisper, Google Drive API
+
+---
+
+### 🌱 Flori-Agri Care Assistant
+**AI-powered crop & flower disease detection**
+
+A Flutter-based mobile application that detects crop and flower diseases using computer vision and provides actionable insights to improve agricultural productivity.
+
+**Tech:** Flutter, Python, AI/DL
+
+---
 
 
+## 📫 Let’s Connect
+
+- 🌐 Portfolio: https://praneshrsportfolio.vercel.app/
+- 💼 LinkedIn: https://www.linkedin.com/in/praneshchandran21/
+- 📧 Email: praneshchandranwork@gmail.com
+
+---
+
+<p align="center">
+<em>Built with curiosity, clarity and a strong bias for shipping.</em>
+</p>
